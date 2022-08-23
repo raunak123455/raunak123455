@@ -1,4 +1,4 @@
-https://blogs.iadb.org/integration-trade/wp-content/uploads/sites/13/2019/04/Blockchain.jpg
+<img>https://blogs.iadb.org/integration-trade/wp-content/uploads/sites/13/2019/04/Blockchain.jpg</img>
 <h1 align="center">Hi 👋, I'm Raunak</h1>
 <h3 align="center">A passionate Blockchain developer from India</h3>
 
