@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raunak123455" alt="raunak123455" /></a> </p>
 
-- 🔭 I’m currently working on **Encode bootcamp**
 
 - 🌱 I’m currently learning **Smart contract security**
 
